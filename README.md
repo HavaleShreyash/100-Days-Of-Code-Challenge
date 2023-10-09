@@ -6,3 +6,4 @@
 ### Day 3 - Replacing digits with charachters - LeetCode 1844
 ### Day 4 - Merging two sorted lists - LeetCode 21
 ### Day 5 - Implementing WUMPUS world problem.
+### Day 6 - Minimax Algorithm in Game Theory
