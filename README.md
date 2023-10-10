@@ -7,3 +7,4 @@
 ### Day 4 - Merging two sorted lists - LeetCode 21
 ### Day 5 - Implementing WUMPUS world problem.
 ### Day 6 - Minimax Algorithm in Game Theory
+### Day 7 - Simple Linear Regression
