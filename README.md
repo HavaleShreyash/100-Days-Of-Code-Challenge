@@ -18,3 +18,4 @@
 ### Day 15 - K-Means Clustering
 ### Day 16 - Q Learning
 ### Day 17 - Random Forest
+### Day 18 - Remove Element - LeetCode 27
