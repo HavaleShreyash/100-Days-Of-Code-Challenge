@@ -20,3 +20,4 @@
 ### Day 17 - Random Forest
 ### Day 18 - Remove Element - LeetCode 27
 ### Day 19 - Longest Palindrome Substring - LeetCode 5
+### Day 20 - Encode and Decode TinyURL - LeetCode 535
