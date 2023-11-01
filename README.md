@@ -28,3 +28,4 @@
 ### Day 25 - N-Queens II - LeetCode 52
 ### Day 26 - Concatenation of Array - LeetCode 1929
 ### Day 27 - Max Increase to Keep City Skyline - LeetCode 807
+### Day 28 - Search Insert Position - LeetCode 35
