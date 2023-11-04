@@ -31,3 +31,4 @@
 #### Day 28 - Search Insert Position - LeetCode 35
 #### Day 29 - Integer to Roman - LeetCode 12
 #### Day 30 - Letter Combinations of a Phone Number - LeetCode 17
+#### Day 31 - Valid Sudoku - LeetCode 36
