@@ -32,3 +32,4 @@
 #### Day 29 - Integer to Roman - LeetCode 12
 #### Day 30 - Letter Combinations of a Phone Number - LeetCode 17
 #### Day 31 - Valid Sudoku - LeetCode 36
+#### Day 32 - Remove duplicates from sorted array - LeetCode 26
