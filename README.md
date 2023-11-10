@@ -36,3 +36,4 @@
 #### Day 33 - Sqrt(x)
 #### Day 34 - Swap Nodes in Pairs - LeetCode 24
 #### Day 35 - Group Anagrams - LeetCode 49
+#### Day 36 - Plus One - LeetCode 66
