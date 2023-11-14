@@ -40,3 +40,4 @@
 #### Day 37 - Permutations - LeetCode 46
 #### Day 38 - Spiral Matrix - LeetCode 54.
 #### Day 39 - Build Array from Permutation - LeetCode 1920
+#### Day 40 - Length of Last Word - LeetCode 58
