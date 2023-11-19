@@ -44,3 +44,4 @@
 #### Day 41 - Maximum Number of Words Found in Sentences - LeetCode 2114
 #### Day 42 - Combination Sum -LeetCode 39
 #### Day 43 - Left and Right Sum Differences - LeetCode 2574
+#### Day 44 - Sort Vowels in a String - LeetCode 2785
