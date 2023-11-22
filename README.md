@@ -47,3 +47,4 @@
 #### Day 44 - Sort Vowels in a String - LeetCode 2785
 #### Day 45 - Rotate Image - LeetCode 48
 #### Day 46 - Sort Colors - LeetCode 75
+#### Day 47 - Query Kth Smallest Trimmed Number - LeetCode 2343
