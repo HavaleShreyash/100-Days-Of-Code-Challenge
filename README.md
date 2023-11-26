@@ -51,3 +51,4 @@
 #### Day 48 - Sudoku Solution Checker
 #### Day 49 - Queue using two stacks
 #### Day 50 - Egyptian Fraction
+#### Day 51 - Maximize Subsequences 
