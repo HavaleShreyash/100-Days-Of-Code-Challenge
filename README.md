@@ -56,3 +56,4 @@
 #### Day 53 - String Analysis
 #### Day 54 - Contiguous Array
 #### Day 55 - Lego Blocks
+#### Day 56 - Minimum Multiplier
