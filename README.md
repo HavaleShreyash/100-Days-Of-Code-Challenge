@@ -57,3 +57,4 @@
 #### Day 54 - Contiguous Array
 #### Day 55 - Lego Blocks
 #### Day 56 - Minimum Multiplier
+#### Day 57 - Manipulate String
