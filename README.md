@@ -58,3 +58,4 @@
 #### Day 55 - Lego Blocks
 #### Day 56 - Minimum Multiplier
 #### Day 57 - Manipulate String
+#### Day 58 - Earliest Possible Day of Full Bloom - LeetCode 2136
