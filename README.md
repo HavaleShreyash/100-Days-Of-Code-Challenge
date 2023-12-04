@@ -59,3 +59,4 @@
 #### Day 56 - Minimum Multiplier
 #### Day 57 - Manipulate String
 #### Day 58 - Earliest Possible Day of Full Bloom - LeetCode 2136
+#### Day 59 - Merge Without Extra Space
