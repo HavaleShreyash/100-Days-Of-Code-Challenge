@@ -65,3 +65,4 @@
 #### Day 62 - Next Permutation
 #### Day 63 - Count Inversions
 #### Day 64 - Stock buy and sell
+#### Day 65 - Count pairs with given sum
