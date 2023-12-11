@@ -66,3 +66,4 @@
 #### Day 63 - Count Inversions
 #### Day 64 - Stock buy and sell
 #### Day 65 - Count pairs with given sum
+#### Day 66 - Common elements
