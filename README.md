@@ -71,3 +71,4 @@
 #### Day 68 - Subarray with 0 sum
 #### Day 69 - Factorials of large numbers
 #### Day 70 - Close the brackets
+#### Day 71 - Ice-Cream Problem
