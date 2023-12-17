@@ -72,3 +72,4 @@
 #### Day 69 - Factorials of large numbers
 #### Day 70 - Close the brackets
 #### Day 71 - Ice-Cream Problem
+#### Day 72 - Maximum Profit
