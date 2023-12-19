@@ -74,3 +74,4 @@
 #### Day 71 - Ice-Cream Problem
 #### Day 72 - Maximum Profit
 #### Day 73 - Array Subset of another array
+#### Day 74 - Triplet Sum in Array
