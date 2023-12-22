@@ -77,3 +77,4 @@
 #### Day 74 - Triplet Sum in Array
 #### Day 75 - Trapping Rain Water
 #### Day 76 - Chocolate Distribution Problem
+#### Day 77 - Arithmetic Subarrays - LeetCode 1630
