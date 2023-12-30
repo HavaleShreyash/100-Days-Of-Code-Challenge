@@ -85,3 +85,4 @@
 #### Day 82 - Median of 2 Sorted Arrays of Different Sizes
 #### Day 83 - Median in a row-wise sorted Matrix
 #### Day 84 - Row with max 1s
+#### Day 85 - Max rectangle
