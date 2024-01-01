@@ -87,3 +87,4 @@
 #### Day 84 - Row with max 1s
 #### Day 85 - Max rectangle
 #### Day 86 - Rotate by 90 degree
+#### Day 87 - Look and Say Pattern
