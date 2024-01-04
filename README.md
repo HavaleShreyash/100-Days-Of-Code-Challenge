@@ -90,3 +90,4 @@
 #### Day 87 - Look and Say Pattern
 #### Day 88 - Minimum Operations to Make Array Equal - LeetCode 88
 #### Day 89 - Longest Palindrome in a String
+#### Day 90 - Longest Repeating Subsequence
