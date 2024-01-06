@@ -92,3 +92,4 @@
 #### Day 89 - Longest Palindrome in a String
 #### Day 90 - Longest Repeating Subsequence
 #### Day 91 - Permutations of a given string
+#### Day 92 - Word Wrap
