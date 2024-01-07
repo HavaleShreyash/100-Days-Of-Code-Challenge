@@ -94,3 +94,4 @@
 #### Day 91 - Permutations of a given string
 #### Day 92 - Word Wrap
 #### Day 93 - Edit Distance
+#### Day 94 - Search Pattern (Rabin-Karp Algorithm)
